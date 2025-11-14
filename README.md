@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Sahil Goyat! 👋
 
 Data Analyst | Business Analytics Enthusiast | Full-Stack Developer
 ## 🙋‍♂️ About Me
@@ -8,4 +8,4 @@ I'm a data analyst with expertise in data analysis, visualization, and statistic
 I approach data analysis with a strategic mindset to identify key issues and opportunities in data, transforming complex datasets into actionable insights that drive business decisions.
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,spring,docker,postgres,mysql,git,vscode,matlab)
+![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,vscode,excel,tableau)
