@@ -27,6 +27,13 @@ I approach data analysis with a strategic mindset to identify key issues and opp
 
 ## 💼 Featured Projects
 
+### 📊 E-commerce Sales Performance Dashboard
+**Tools Used:** Excel, Pivot Tables, Data Cleaning, Dashboarding
+- Analyzed a 21k-row e-commerce dataset to identify sales trends and user purchase frequency.
+- Cleaned and transformed raw data, remediating 1,800+ duplicates and text-to-number data type errors.
+- Built a 4-chart summary dashboard to visualize 10 key business insights, including a "Volume vs. Value" brand segmentation.
+- [View Repository](https://github.com/09White-Devil/Audio-Sales-EDA-Project))
+
 ### 📍 Corporate Mobility - Vehicle Tracking System
 **Tech Stack:** Java, Spring Boot, PostgreSQL, Microservices, Eureka
 - Full-stack vehicle tracking application with microservice architecture
@@ -40,10 +47,5 @@ I approach data analysis with a strategic mindset to identify key issues and opp
 - Designed custom GUI with modern interface
 - [View Repository](link-to-repo)
 
-### 📊 Business Analytics: Buyhatke Partnership Strategy
-**Tech Stack:** Python, Data Analysis, Business Intelligence
-- Analyzed marketplace data and strategic partnership opportunities
-- Evaluated marketing metrics (CTR, AOV, DAU, LTV, CAC)
-- Delivered comprehensive business recommendations
-- [View Repository](link-to-repo)
+
 
