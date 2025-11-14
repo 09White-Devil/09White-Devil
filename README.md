@@ -23,3 +23,27 @@ I approach data analysis with a strategic mindset to identify key issues and opp
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=09White-Devil&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=09White-Devil&layout=compact&theme=radical)
+
+
+## 💼 Featured Projects
+
+### 📍 Corporate Mobility - Vehicle Tracking System
+**Tech Stack:** Java, Spring Boot, PostgreSQL, Microservices, Eureka
+- Full-stack vehicle tracking application with microservice architecture
+- Implemented user service and vehicle service with inter-service communication
+- Built RESTful APIs with Swagger documentation
+- [View Repository](link-to-repo)
+
+### 🔐 Socket-Based File Transfer Application
+**Tech Stack:** Python, CustomTkinter, Network Programming
+- Desktop application for secure file transfer using socket programming
+- Designed custom GUI with modern interface
+- [View Repository](link-to-repo)
+
+### 📊 Business Analytics: Buyhatke Partnership Strategy
+**Tech Stack:** Python, Data Analysis, Business Intelligence
+- Analyzed marketplace data and strategic partnership opportunities
+- Evaluated marketing metrics (CTR, AOV, DAU, LTV, CAC)
+- Delivered comprehensive business recommendations
+- [View Repository](link-to-repo)
+
