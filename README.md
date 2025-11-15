@@ -8,7 +8,7 @@ I'm a data analyst with expertise in data analysis, visualization, and statistic
 I approach data analysis with a strategic mindset to identify key issues and opportunities in data, transforming complex datasets into actionable insights that drive business decisions.
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,html,css,mysql,git,vscode)
+![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,git,vscode)
 ### Data Analytics & Visualization
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
