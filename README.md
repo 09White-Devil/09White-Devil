@@ -34,12 +34,10 @@ I approach data analysis with a strategic mindset to identify key issues and opp
 - Built a 4-chart summary dashboard to visualize 10 key business insights, including a "Volume vs. Value" brand segmentation.
 - [View Repository](https://github.com/09White-Devil/Audio-Sales-EDA-Project))
 
-### 📍 Corporate Mobility - Vehicle Tracking System
-**Tech Stack:** Java, Spring Boot, PostgreSQL, Microservices, Eureka
-- Full-stack vehicle tracking application with microservice architecture
-- Implemented user service and vehicle service with inter-service communication
-- Built RESTful APIs with Swagger documentation
-- [View Repository](link-to-repo)
+### 📍Automated-Rider-Helmet-Detection
+**Tech Stack:** Python, Cuda, Ultralytics 
+We engineered a custom Hierarchical 3-Class Labeling Strategy and trained a YOLOv8m model on a massive, combined dataset of over 21,000 images, prioritizing robustness and generalization over purely theoretical maximum accuracy.
+- [View Repository](https://github.com/09White-Devil/Automated-Rider-Helmet-Detection)
 
 ### 🔐 Socket-Based File Transfer Application
 **Tech Stack:** Python, CustomTkinter, Network Programming
