@@ -36,7 +36,7 @@ I approach data analysis with a strategic mindset to identify key issues and opp
 
 ### 📍Automated-Rider-Helmet-Detection
 **Tech Stack:** Python, Cuda, Ultralytics 
-We engineered a custom Hierarchical 3-Class Labeling Strategy and trained a YOLOv8m model on a massive, combined dataset of over 21,000 images, prioritizing robustness and generalization over purely theoretical maximum accuracy.
+- We engineered a custom Hierarchical 3-Class Labeling Strategy and trained a YOLOv8m model on a massive, combined dataset of over 21,000 images, prioritizing robustness and generalization over purely theoretical maximum accuracy.
 - [View Repository](https://github.com/09White-Devil/Automated-Rider-Helmet-Detection)
 
 ### 🔐 Socket-Based File Transfer Application
